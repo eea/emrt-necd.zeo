@@ -4,11 +4,7 @@
 
 This buildout is intended to run on Linux/Unix-based operating systems and has been used and tested on CentoOS 7. The following system libraries must be installed on the server before you run the buildout. These must be globally installed by the server administrator.
 
-======
-CentOS
-======
-gcc
-python-devel
+    $ sudo yum install gcc python-devel
 
 ## Installation
 
